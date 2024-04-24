@@ -1,0 +1,33 @@
+li {
+    padding: 5px 10px ;
+}
+
+.btn {
+   
+   height: min-content;
+    min-height: 48px;
+    border-radius: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn-linked-in {
+    color:  #0a66c2;
+}
+
+.btn-secondary-emphasis {
+    box-shadow: 0 0 0 1px var(#0a66c2);
+    background-color: var(#0a66c2);
+    color: var(#0a66c2);
+}
+.link-no-visited-state, .link-no-visited-state:visited, .link-no-visited-state:link, .link-no-visited-state:link:visited {
+    font-weight: 600;
+    color: var(--color-link);
+}
+.text-color-brand {
+    color: var(--color-brand);
+}

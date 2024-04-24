@@ -1,0 +1,158 @@
+.main-heading {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    font-weight: 200;
+}
+.text-color-text-accent-2 {
+    color: var(--color-text-accent-2);
+}
+.text-input {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0.75);
+    
+    color: rgba(0, 0, 0, 0.9);
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.input-label {
+    color: rgba(0, 0, 0, 0.75);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+.link, .link:link {
+    font-weight: 600;
+    color: var(--color-link);
+}
+
+.leading-regular {
+    line-height: 1.25;
+}
+.font-bold {
+    font-weight: 600;
+}
+.text-md {
+    font-size: 16px;
+}
+.font-sans {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+.sign-in-form__forgot-password--full-width {
+    margin-bottom: 24px;
+    margin-top: 8px;
+    width: fit-content;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+.sign-in-form__submit-btn--full-width {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.btn-primary, .btn-primary:visited, .btn-primary:focus {
+    box-shadow: 0 0 0 1px var(--color-button-container-primary-border);
+    background-color: var(--color-button-container-primary);
+    color: var(--color-button-label-primary);
+}
+
+.left-right-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.left-right-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.pb-3 {
+    padding-bottom: 24px;
+}
+.pt-2 {
+    padding-top: 16px;
+}
+
+.hero-cta-form {
+    margin-bottom: 0px;
+}
+
+.hero-cta-form, .sign-in-form__third-party-container {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    width: 408px;
+}
+
+.pr-\[42px\] {
+    padding-right: 42px;
+}
+
+.self-start {
+    align-self: flex-start;
+}
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+.w-\[55\%\] {
+    width: 55%;
+}
+.relative {
+    position: relative;
+}
+.link-no-visited-state, .link-no-visited-state:visited, .link-no-visited-state:link, .link-no-visited-state:link:visited {
+    font-weight: 600;
+    color: var(--color-link);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+.sign-in-form__submit-btn--full-width {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.btn-primary, .btn-primary:visited, .btn-primary:focus {
+    box-shadow: 0 0 0 1px var(--color-button-container-primary-border);
+    background-color: var(--color-button-container-primary);
+    color: var(--color-button-label-primary);
+}
+.btn-md, .btn-md:visited, .btn-md:focus {
+    cursor: pointer;
+    text-decoration-line: none;
+}
+.btn-md {
+    height: min-content;
+    min-height: 48px;
+    border-radius: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+.sign-in-form__footer--full-width {
+    flex-direction: column;
+}
